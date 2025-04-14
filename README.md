@@ -173,7 +173,7 @@ Your favorite caffè nearby 😉☕️
     <section class="call-to-order">
       <h2>Place Your Order</h2>
       <!-- Adjust the "tel:" link with your actual phone number -->
-      <a href="tel:+971501234567">Call Now to Order</a>
+      <a href="tel:+971505507055">Call Now to Order</a>
       <p>Pickup at The Project Est. 2025 | Orders: orders@theprojectae.com</p>
     </section>
   </div>
