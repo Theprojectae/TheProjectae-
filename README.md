@@ -85,7 +85,7 @@ Your favorite caffè nearby 😉☕️
       margin-bottom: 30px;
     }
     /* Call to Order */
-    .call-to-order {
+    .call-to-order call 050 550 7055
       text-align: center;
       margin-bottom: 30px;
     }
