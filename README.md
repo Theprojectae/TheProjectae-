@@ -104,7 +104,7 @@ Your favorite caffè nearby 😉☕️
       header h1 {
         font-size: 1.5rem;
       }
-      .customizer button, .call-to-order a {
+      .customizer button, .call-to-order cal, 050 550 7055!
         width: 100%;
       }
     }
